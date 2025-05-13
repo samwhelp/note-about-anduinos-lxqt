@@ -66,7 +66,7 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Lxqt 探索筆記](https://samwhelp.github.io/note-about-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-lxqt) |
-| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-lubuntu) |
+| [Lubuntu 探索筆記](https://samwhelp.github.io/note-about-lubuntu/) | [GitHub](https://github.com/samwhelp/note-about-lubuntu) |
 | [Debian Lxqt 探索筆記](https://samwhelp.github.io/note-about-debian-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-debian-lxqt) |
 | [ArchLinux Lxqt 探索筆記](https://samwhelp.github.io/note-about-archlinux-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-lxqt) |
 | [Fedora Lxqt 探索筆記](https://samwhelp.github.io/note-about-fedora-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-fedora-lxqt) |
